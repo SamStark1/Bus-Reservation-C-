@@ -1,0 +1,5 @@
+1	23/4/2017	Khalil	3620304040034	2	Sukkur	Peshawer
+1	30/5/2017	Waqar	3620304040075	3	Sukkur	Peshawer
+1	5/5/2017	jamal	3620304040067	3	Sukkur	Peshawar
+1	6/5/2017	Hussain	3620304040078	3	Islamabad	Karachi
+1	23/7/2017	Hiader	3620304040035	6	Karachi	Peshawar
